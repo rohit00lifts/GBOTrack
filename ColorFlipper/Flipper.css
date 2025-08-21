@@ -1,0 +1,14 @@
+.mainCont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.innerCont{
+    padding: 5%;
+    background-color: rgb(186, 121, 22);
+    border-radius: 50%;
+}
+button{
+    margin:20px
+}
